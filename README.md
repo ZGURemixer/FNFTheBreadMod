@@ -1,3 +1,5 @@
+## IMPORTANT
+You are free to do anything you want with this mod, as long as the team is credited. Ports (including Roblox games), remasters, remixes, and fan-made expansions are not just allowed, but encouraged.
 # Friday Night Funkin': The Bread Mod
 ## Summary
 A Friday Night Funkin' mod where you rap it out against a literal piece of bread. That's it. Runs on [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine). This repository contains, not just the mod itself, but the various source files that were used for the creation of its assets.
