@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, hello there, little guy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BEEP?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yup! I can talk. Wouldn't have a microphone if I couldn't."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's a good point."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bread",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now that we're here, I might as well introduce myself!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "you're literally just a piece of bread."
+		}
+	]
+}

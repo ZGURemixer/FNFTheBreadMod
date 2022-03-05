@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "demon",
+			"text": "That was an awful cover.",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "demon",
+			"text": "You don't just disrespect my queen like that.",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "demon",
+			"text": "The Coolio leitmoif ruined it too.",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Girlfriend...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "demon",
+			"text": "0 out of 10.",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bread"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bread_angry"
+		},
+		{
+			"expression": "confused",
+			"text": "Now you've done it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "sorry.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

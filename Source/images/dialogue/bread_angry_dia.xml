@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bread_angry_dia.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk0000" x="0" y="0" width="699" height="359" frameX="0" frameY="-52" frameWidth="699" frameHeight="411"/>
+	<SubTexture name="Talk0001" x="699" y="0" width="646" height="394" frameX="-17" frameY="-17" frameWidth="699" frameHeight="411"/>
+	<SubTexture name="Talk0002" x="1345" y="0" width="618" height="411" frameX="-25" frameY="0" frameWidth="699" frameHeight="411"/>
+</TextureAtlas>

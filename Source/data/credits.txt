@@ -1,0 +1,14 @@
+V.S. Bread
+ZGURemixer::roger::Coding, Charting, Artwork, Music::https://zguremixer.carrd.co/::0xFF8AA2FF
+Special Thanks
+Washo789::washo::Camera script tutorial::https://gamebanana.com/members/1971029::0xFF3A8B34
+Barnaby Hill::barnaby::Dialogue script tutorial::https://www.youtube.com/channel/UCdAgKf0WKFpW43ck_DFeVdA::0xFFFFFFFF
+jafguy::jafguy::Health drain script tutorial::https://www.youtube.com/channel/UCFRh_FmUesK5msWDyD1He1A::0xFF9E4933
+Sven Lõhmus::sven::Original composer of "Rockerfeller Street"::moonwalk.ee::0xFFFFA668
+Getter Jaani::getter::Original singer of "Rockerfeller Street"::https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf::0xFFC8755C
+Oskar Abrahamsson::oskar::Original composer of "Princess Molo"::https://www.scenestream.net/demovibes/artist/2093/::0xFF201246
+Cow Vibing::cowvibing::Acapella that I sampled::https://www.youtube.com/channel/UCiHmY9KLD8l63W6BeLzb_VA::0xFFFFFFFF
+lokiju230::lokiju230::Inspiration for the "Pan" song::https://www.youtube.com/user/lokiju230::0xFFFFFFFF
+ActuallyMaddix::maddix::Playtesting this mod::https://www.youtube.com/channel/UCRXFRHZiWTePfv0PK60NxiA::0xFF805DCE
+KadeDev::KadeDev::Made the better rating sprites::https://github.com/KadeDev::0xFF3A8B34
+YOU!::luigi::Playing this mod::https://youtu.be/iubu1xJooSY?t=361::0xFF3A8B34
