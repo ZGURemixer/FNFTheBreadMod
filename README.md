@@ -11,6 +11,8 @@ A Friday Night Funkin' mod where you rap it out against a literal piece of bread
 
 ## The Team
 - [ZGURemixer](https://zguremixer.carrd.co/) - Charting, Coding, Artwork.
+- [Enicholas Cool](https://twitter.com/EnicholasCool) - Playtester, Icon Artist.
+- [ActuallyMaddix](https://www.youtube.com/channel/UCRXFRHZiWTePfv0PK60NxiA) - Playtesting the mod.
 
 ## Special Thanks
 - [Washo789](https://gamebanana.com/members/1971029) - Camera script tutorial.
@@ -20,8 +22,8 @@ A Friday Night Funkin' mod where you rap it out against a literal piece of bread
 - [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) - Original singer of "Rockerfeller Street".
 - [Oskar Abrahamsson](https://www.scenestream.net/demovibes/artist/2093/) - Original composer of "Princess Molo".
 - [Cow Vibing](https://www.youtube.com/channel/UCiHmY9KLD8l63W6BeLzb_VA) - Providing Acapella that I sampled.
+- [MartyKrimson74](https://www.youtube.com/channel/UCuNvcz5SY2qPA7Z4iPLJQDg) - Pico soundfont.
 - [lokiju230](https://www.youtube.com/user/lokiju230) - Inspiration for the "Pan" song.
-- [ActuallyMaddix](https://www.youtube.com/channel/UCRXFRHZiWTePfv0PK60NxiA) - Giving feedback before release.
 - [KadeDev](https://github.com/KadeDev) - Updated rating sprites.
 - [YOU!](https://youtu.be/iubu1xJooSY?t=361) - Playing this mod.
 
